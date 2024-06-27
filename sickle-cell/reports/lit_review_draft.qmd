@@ -1,0 +1,187 @@
+---
+title: "Literature Review"
+format: html
+editor: visual
+bibliography: references.bib
+---
+
+This is the rough write-up.
+
+I want to think about the management of sickle cell disease in Kenya.
+
+What is used to manage & prevent sickle cell (in the widest possible sense).
+
+Then get the costs and the efficacy of those interventions. Costs should be all inclusive. Also mention the year and target demographic of those interventions.
+
+I do also need to find out the trajectory of sickle-cell so that I can estimate life-years. If we don't treat what is the expected life expectancy.
+
+In general, what is the <lost my concentration>
+
+I think my aim is to have a decision tree at the end of this.
+
+I should also assess what is the quality of evidence?
+
+# The Disease
+
+## Progression (get states)
+
+@uyoga2019 looked at the hospital admission for children with sickle cell. They had higher mortality ie 58 per 1000 person-years vs 2.4 per 1000 person-years. The adjusted incidence ratio is 23.1. Incidence of admission is higher ie 210 person-years of observation vs 43 per-person years. Adjusted incidence ratio is 4.8. The most common reason for admission was severe anemia i.e. 48 per 1000 person-years of observation. Admission was lower in those with a recruitment HbF level above median and those homozygous for $\alpha$-thalassaemia Other conditions which were significant (at 5%): - severe pneumonia (IRR of 3.8) - very severe pneumonia (IRR of 3.4) - meningitis or encephalitis (IRR of 2.1) - severe malnutrition (IRR of 3.6) - jaundice (IRR of 20.4) - other (IRR of 12) - bacteraemia (IRR of 6), - tranfused (IRR of 27) - hospital deaths (IRR of 11)
+
+## Kenyan epidemiology
+
+In Kilifi, according to @uyoga2019, 0.8% of infants had sickle cell disease. Of these 54.7% agreed to be enrolled at the outpatient clinic.
+
+What is the average life expectancy for people with sickle cell?
+
+# Management of Sickle Cell
+
+## Prevention
+
+## Diagnosis
+
+@uyoga2019 used capillary blood samples of children aged 3-12 months. They stored blood samples at 4$^{\circ}$. The test was Bio-Rad Variant Classic high-performance liquid chromatography analyser (BioRad; Hercules, CA, USA) Then confirmatory testing was done using PCR using genomic DNA. Inconsistencies between phenotyping and genotyping results were resolved through DNA sequencing. They also genotyped everyone for the $\alpha^+$thalassaemia deletion. Other work was on full blood counts using automated counters supplied by Beckman Coulter. Reticulocyte counts weren't included.
+
+@mcgann2015 for neonatal screening costs included: - Supplies for sample collection - Maternity nurse labour for specimen collection - Transport of samples to the central laboratory - Laboratory costs to include personnel to perform isoelectric focusing on samples - Care costs: + Personnel ++ doctors ++ nurses ++ clinic coordinator + Treatment ++ ongoing sickle cell education ++ routine clinical care (every 3 months until 5 years) +++ measurement of haemoglobin +++ provision of mosquito nets +++ folic acid +++ oral prophylactic penicillin ++ vaccines +++ pneumococcal conjugate vaccine +++ 23-valent pneumococcal polysaccharide vaccine + Clinic overhead: ++ physical space, ++ telecommunivations, ++ computer needs
+
+They didn't include estimates of downstream medical costs. But if available: the estimates of costs and utilization of the healthcare system would be useful.
+
+@esoh2021 for testing: - Clinical tests: + Rapid, inexpensive, and sensitive immunoassay-based point-of-care tests + Examples: Sickle SCAN, HemoTypeSC Lab tests: - Haemoglobin electrophoresis - Isoelectric focusing (IEF) - High-perormance liquid chromatography (HPLC)
+
+@national_guidelines recommend that for neonatal screening, we use the laboratory tests.
+After the neonatal period:
+- Preliminary tests
++ Full blood counts, reticulocyte counts
++ Sickling test
++ Haemoglobin solubility test
+- Confirmatory tests:
++ Haemoglobin Electrophoresis (HE)
++ High Perfomance Liquid Chromatography (HPLC): can be used for neonatal
++ Isoelectric Focusing
+- Point of care
++ useful but needs confirmatory testing
+- Others:
++ biochemical changes 
++ DNA analysis: prenatal and preimplantation diagnosis
+
+I can use the images on Page 16 and 17 and see if I can put costs onto things.
+
+## Management
+
+@uyoga2019 provided parental education. They also provided pneumococcal prophylaxis with phenoxymethylpenicilling (250 mg once daily until the age of 5 years). Also malaria prophylaxis with proguanil (3mg/kg per day). Also folic acid supplementation (5mg once daily). Also emergency cards for fast track access to paediatric wards. Also routine vaccinations including Haemophilus influenzae type b conjugate vaccine. Also the ten-valent pneumococcal conjugate vaccine. They didn't have hydroxycarbamide therapy. Hydroxycarbamide requires substantial investments.
+
+@uyoga2019 found that those who registered for specialist outpatient care had significantly highly survival.
+
+According to NHS: - drinking plenty of fluids and staying warm to prevent painful episodes - painkillers, such as paracetamol or ibuprofen (sometimes treatment with stronger painkillers in hospital may be necessary) - daily antibiotics and having regular vaccinations to reduce your chances of getting an infection - a medicine called hydroxycarbamide (hydroxyurea) to reduce symptoms - regular blood transfusions if symptoms continue or get worse, or there are signs of damage caused by sickle cell disease - an emergency blood transfusion if severe anaemia develops
+
+@esoh2021 also include: - penicillin prophylaxis (child) - vaccination against pneumococcal infections (child) - blood transfusion - hydroxyurea (hydroxycarbamide) - haematopoietic stem-cell transplantation - artemisinin combination therapy regimens as prophylaxis - transcranial doppler screening to detect risk of stroke
+
+For management: - Penicillin prophylaxis by the age of 90 days and continued throughout childhood - Vaccination against: + pneumococcal + meningococcal + salmonella + hepatitis A + hepatitis B - Malaria prophylaxis - Folic acid supply - Adequate hydration
+
+If one has acute fever: - malaria screeing test If one has bacteria infection: antibiotics + test for pneumococcus Transcranial doppler from the age of 2 years Prescribe hydroxyurea in case of abnormal transcranial doppler velocity Pyschological assessment (regular) Prescribe hydroxyurea for pain Acute splenic sequestration and transient red cell aplasia for fall in haemoglobin Blood transfusion for acute/severe anaemia Acute chest syndrome should be assessed: also using x-ray Treatment for acute chest: oxygen delivery, intravenous fluids, analgesics, antibiotics, physiotherapy, acute blood transfusion Regular transfusions to prevent strokes Iron-chelating agents for recurrent acute chest syndrome Avascular necrosis + x-ray for patients with sudden onset/ progresive joint pain Annual monitoring for renal disease, hypertension, presence/ progression of albuminuria, proteinuria, decline in renal function, nephropathy.
+
+Our national guidelines:
+Newborn screening for all.
+Penicillin prophylaxis: frm 2months to 5 years. For those with surgical splenectomy it is for life. Also later if you've had more than 2 episodes of severe pneumonia. Dose is provided.
+Additional vaccines: Pneumococcal Polysaccharide Vaccine (Pneumo-23) at 2 years then every 5 years.
+Influenza vaccine annually
+Meningococcal vaccine: 2 doses below 2 years; 1 dose above 2 years
+Hemophilus influenza type B: booster at 18 months
+Hydroxyurea should be given. Then there needs to be lab for constant testing.
+Blood transfusion should also happen. This sometimes include chronic transfusion therapy.
+There is also need for analgesics, opioids etc. 
+Psychosocial support is also helpful.
+Nutritional support including folic acid supplementation.
+Malaria prophylaxis for those who live in high transmission areas or non-immune individuals. Also treated mosquito nets.
+There is need for routine clinic follow ups i.e. 8-12 weeks. Children under 2: monthly. Children above 2: bimonthly.
+We also need trans-cranial dopplers (TCDs)
+For physical screening: need lab stuff for full body count, reticulocytes and film. Also for haemoglobinopathies. Also for malaria test.
+Need IV Fluids.
+Ophtalmic complications.
+
+For women:
+- Pre-conceptual conseling:
++ haemoglobinopathies
++ analgesic dependency
++ transfusion history
++ mode of delivery
++ immunization history
++ neonatal screening
+- Investigations:
++ haemoglobin level
++ urea and electrolytes to screen for sickle cell nephropathy
++ screening for red cell allo-antibodies
++ echocardiogram to screen for pulmonary hypertension.
+- Antenatal management
++ folic acid daily
++ prescribe iron if there is a deficiency.
++ stop hydroxyurea
++ stop angiotensin-converting enzyme inhibitors and angiotensin receptor blockers 
++ low dose aspirin once daily.
++ prophylactic low molecular weight heparin
+- Delivery 
++ a hospital with a haematologist
++ induce delivery/ elective CS
++ opiate analgesia except pethidine
++ prophylactic antibiotics
++ therapeutic doses
++ conservative preoperative blood transfusion therapy.
+- Haemoglobinopathy Screening
+- Neonatal screening
+- Premarital, antenatal and postnatal screening
+- Psychosocial counselling
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Treatment
+
+@esoh 2021 - Allogeneic HCST befor the age of 2 yeas + Requires harvesting haematopoietic stem cells
+
+# Other Approaches
+
+## Angola
+
+@mcgann2015 did a cost-effectiveness study for neonatal screening for sickle cell anaemia. They used a realistic model for NBS. They used the modified WHO-choosing Interventions are cost-effective (CHOICE) They also used generalized CEA methods to estimate intervention costs to maximize generalizability. WHO CHOICE recommends calculating QALY's gained or DALY's averted.

@@ -1,5 +1,5 @@
 # Consider making this a model or a function instead of filling in endless things.
-# I think using object oriented programming might be better.
+# I think using object oriented programming is better.
 
 # Find all the possible pathways
 

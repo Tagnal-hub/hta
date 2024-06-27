@@ -1,0 +1,70 @@
+---
+title: "Sickle Cell Lit Review"
+author: "Angela Langat"
+format: pptx
+editor: visual
+---
+
+# Outline
+
+-   Epidemiology
+
+-   Distribution of sickle cell in Kenya
+
+-   Effects
+
+-   Management
+
+-   Conclusion
+
+# Cost
+
+Annual economic cost was USD 138 in 2010 with a range of USD 94 to USD 229.
+
+# Epidemiology
+
+Most likely to die before 5.
+So consider interventions 1-5 and beyond 5 years
+
+## Distribution
+
+## Effects
+
+# Prevention
+- Premarital testing
+- Genetic counselling clinics
+
+
+# Diagnosis
+
+-  Screening: neonatal/ infant (universal?)
++ Rapid tests:
+++ Sickle SCAN
+++ HemoTypeSC
+
+-   Confirmatory testing (laboratory tests)
++ Haemoglobin electrophoresis
++ Isoelectric focusing
++ High-perormance liquid chromatography
+
+
+# Management
+
+-   Non-medical intervention
+
+-   Parental education (also community campaigns)
+
+-   Drug Therapies
+
+-   Pneumococcal prophylaxis with phenoxymethylpenicillin (250 mg once daily until the age of 5 years)
+
+-   Malaria prophylaxis with proguanil (3mg/kg per day)
+
+-   Folic acid supplementation (5mg once daily)
+
+-   Hydroxycarbamide (from 9 months)
+
+# Conclusion
+
+
+# References

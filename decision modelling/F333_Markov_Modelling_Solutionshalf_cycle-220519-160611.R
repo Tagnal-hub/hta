@@ -126,6 +126,7 @@ trace.AZT.seed <- rbind(seed, trace.AZT)
 # Now we can take the average of the trace including the seed and without it. 
 # This is essentially calculating the average between the rows (i.e. assuming half the people move during the cycle)
 trace.AZT.hc <- (trace.AZT.seed[1:cycles,] + trace.AZT[1:cycles,]) / 2 
+# could instead just add each row to the previous one and divide by 2 (a loop)
 
 # Now we can take a look at our half cycle corrected trace
 head(trace.AZT.hc)
