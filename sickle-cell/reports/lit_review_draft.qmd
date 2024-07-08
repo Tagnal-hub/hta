@@ -47,21 +47,7 @@ They didn't include estimates of downstream medical costs. But if available: the
 
 @esoh2021 for testing: - Clinical tests: + Rapid, inexpensive, and sensitive immunoassay-based point-of-care tests + Examples: Sickle SCAN, HemoTypeSC Lab tests: - Haemoglobin electrophoresis - Isoelectric focusing (IEF) - High-perormance liquid chromatography (HPLC)
 
-@national_guidelines recommend that for neonatal screening, we use the laboratory tests.
-After the neonatal period:
-- Preliminary tests
-+ Full blood counts, reticulocyte counts
-+ Sickling test
-+ Haemoglobin solubility test
-- Confirmatory tests:
-+ Haemoglobin Electrophoresis (HE)
-+ High Perfomance Liquid Chromatography (HPLC): can be used for neonatal
-+ Isoelectric Focusing
-- Point of care
-+ useful but needs confirmatory testing
-- Others:
-+ biochemical changes 
-+ DNA analysis: prenatal and preimplantation diagnosis
+@national_guidelines recommend that for neonatal screening, we use the laboratory tests. After the neonatal period: - Preliminary tests + Full blood counts, reticulocyte counts + Sickling test + Haemoglobin solubility test - Confirmatory tests: + Haemoglobin Electrophoresis (HE) + High Perfomance Liquid Chromatography (HPLC): can be used for neonatal + Isoelectric Focusing - Point of care + useful but needs confirmatory testing - Others: + biochemical changes + DNA analysis: prenatal and preimplantation diagnosis
 
 I can use the images on Page 16 and 17 and see if I can put costs onto things.
 
@@ -79,102 +65,9 @@ For management: - Penicillin prophylaxis by the age of 90 days and continued thr
 
 If one has acute fever: - malaria screeing test If one has bacteria infection: antibiotics + test for pneumococcus Transcranial doppler from the age of 2 years Prescribe hydroxyurea in case of abnormal transcranial doppler velocity Pyschological assessment (regular) Prescribe hydroxyurea for pain Acute splenic sequestration and transient red cell aplasia for fall in haemoglobin Blood transfusion for acute/severe anaemia Acute chest syndrome should be assessed: also using x-ray Treatment for acute chest: oxygen delivery, intravenous fluids, analgesics, antibiotics, physiotherapy, acute blood transfusion Regular transfusions to prevent strokes Iron-chelating agents for recurrent acute chest syndrome Avascular necrosis + x-ray for patients with sudden onset/ progresive joint pain Annual monitoring for renal disease, hypertension, presence/ progression of albuminuria, proteinuria, decline in renal function, nephropathy.
 
-Our national guidelines:
-Newborn screening for all.
-Penicillin prophylaxis: frm 2months to 5 years. For those with surgical splenectomy it is for life. Also later if you've had more than 2 episodes of severe pneumonia. Dose is provided.
-Additional vaccines: Pneumococcal Polysaccharide Vaccine (Pneumo-23) at 2 years then every 5 years.
-Influenza vaccine annually
-Meningococcal vaccine: 2 doses below 2 years; 1 dose above 2 years
-Hemophilus influenza type B: booster at 18 months
-Hydroxyurea should be given. Then there needs to be lab for constant testing.
-Blood transfusion should also happen. This sometimes include chronic transfusion therapy.
-There is also need for analgesics, opioids etc. 
-Psychosocial support is also helpful.
-Nutritional support including folic acid supplementation.
-Malaria prophylaxis for those who live in high transmission areas or non-immune individuals. Also treated mosquito nets.
-There is need for routine clinic follow ups i.e. 8-12 weeks. Children under 2: monthly. Children above 2: bimonthly.
-We also need trans-cranial dopplers (TCDs)
-For physical screening: need lab stuff for full body count, reticulocytes and film. Also for haemoglobinopathies. Also for malaria test.
-Need IV Fluids.
-Ophtalmic complications.
+Our national guidelines: Newborn screening for all. Penicillin prophylaxis: frm 2months to 5 years. For those with surgical splenectomy it is for life. Also later if you've had more than 2 episodes of severe pneumonia. Dose is provided. Additional vaccines: Pneumococcal Polysaccharide Vaccine (Pneumo-23) at 2 years then every 5 years. Influenza vaccine annually Meningococcal vaccine: 2 doses below 2 years; 1 dose above 2 years Hemophilus influenza type B: booster at 18 months Hydroxyurea should be given. Then there needs to be lab for constant testing. Blood transfusion should also happen. This sometimes include chronic transfusion therapy. There is also need for analgesics, opioids etc. Psychosocial support is also helpful. Nutritional support including folic acid supplementation. Malaria prophylaxis for those who live in high transmission areas or non-immune individuals. Also treated mosquito nets. There is need for routine clinic follow ups i.e. 8-12 weeks. Children under 2: monthly. Children above 2: bimonthly. We also need trans-cranial dopplers (TCDs) For physical screening: need lab stuff for full body count, reticulocytes and film. Also for haemoglobinopathies. Also for malaria test. Need IV Fluids. Ophtalmic complications.
 
-For women:
-- Pre-conceptual conseling:
-+ haemoglobinopathies
-+ analgesic dependency
-+ transfusion history
-+ mode of delivery
-+ immunization history
-+ neonatal screening
-- Investigations:
-+ haemoglobin level
-+ urea and electrolytes to screen for sickle cell nephropathy
-+ screening for red cell allo-antibodies
-+ echocardiogram to screen for pulmonary hypertension.
-- Antenatal management
-+ folic acid daily
-+ prescribe iron if there is a deficiency.
-+ stop hydroxyurea
-+ stop angiotensin-converting enzyme inhibitors and angiotensin receptor blockers 
-+ low dose aspirin once daily.
-+ prophylactic low molecular weight heparin
-- Delivery 
-+ a hospital with a haematologist
-+ induce delivery/ elective CS
-+ opiate analgesia except pethidine
-+ prophylactic antibiotics
-+ therapeutic doses
-+ conservative preoperative blood transfusion therapy.
-- Haemoglobinopathy Screening
-- Neonatal screening
-- Premarital, antenatal and postnatal screening
-- Psychosocial counselling
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+For women: - Pre-conceptual conseling: + haemoglobinopathies + analgesic dependency + transfusion history + mode of delivery + immunization history + neonatal screening - Investigations: + haemoglobin level + urea and electrolytes to screen for sickle cell nephropathy + screening for red cell allo-antibodies + echocardiogram to screen for pulmonary hypertension. - Antenatal management + folic acid daily + prescribe iron if there is a deficiency. + stop hydroxyurea + stop angiotensin-converting enzyme inhibitors and angiotensin receptor blockers + low dose aspirin once daily. + prophylactic low molecular weight heparin - Delivery + a hospital with a haematologist + induce delivery/ elective CS + opiate analgesia except pethidine + prophylactic antibiotics + therapeutic doses + conservative preoperative blood transfusion therapy. - Haemoglobinopathy Screening - Neonatal screening - Premarital, antenatal and postnatal screening - Psychosocial counselling
 
 ## Treatment
 
