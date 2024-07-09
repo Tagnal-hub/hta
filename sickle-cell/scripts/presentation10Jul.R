@@ -266,6 +266,81 @@ results_df <- results_df |>
   dplyr::select(-c("inc_cost", "inc_util"))
 
 
+#### Cost Effectiveness Acceptability Curve ####
+
+results_list <- list(
+  no.treat = no.treat.results,
+  hu = hu.results,
+  ctx = ctx.results,
+  sct = sct.results
+)
+
+# Extract costs and outcomes into separate vectors
+costs <- sapply(results_list, function(x) x['costs'])
+outcomes <- sapply(results_list, function(x) x['utils'])
+
+# Combine into a data frame for convenience
+psa_data <- data.frame(treatment = names(results_list), costs = costs, outcomes = outcomes)
+
+
+calculate_incrementals <- function(base, comparator) {
+  incr_costs <- comparator['costs'] - base['costs']
+  incr_effects <- comparator['utils'] - base['utils']
+  data.frame(incr_costs = incr_costs, incr_effects = incr_effects)
+}
+
+# Baseline results (no treatment)
+base <- results_list$no.treat
+
+# Incremental costs and effects for each treatment compared to no treatment
+incr_hu_vs_notreat <- calculate_incrementals(base, results_list$hu)
+incr_ctx_vs_notreat <- calculate_incrementals(base, results_list$ctx)
+incr_sct_vs_notreat <- calculate_incrementals(base, results_list$sct)
+
+# Combine into a single list for convenience
+psa_incr_data <- list(
+  hu_vs_notreat = incr_hu_vs_notreat,
+  ctx_vs_notreat = incr_ctx_vs_notreat,
+  sct_vs_notreat = incr_sct_vs_notreat
+)
+
+wtp_thresholds <- seq(0, 200000, by = 500)
+
+calculate_ceac <- function(incr_data, wtp_thresholds) {
+  ceac <- sapply(wtp_thresholds, function(wtp) {
+    mean(incr_data$incr_effects > 0 & incr_data$incr_costs / incr_data$incr_effects <= wtp)
+  })
+  ceac
+}
+
+# Calculate CEACs for each comparison
+ceac_hu_vs_notreat <- calculate_ceac(incr_hu_vs_notreat, wtp_thresholds)
+ceac_ctx_vs_notreat <- calculate_ceac(incr_ctx_vs_notreat, wtp_thresholds)
+ceac_sct_vs_notreat <- calculate_ceac(incr_sct_vs_notreat, wtp_thresholds)
+
+# Combine into a data frame for plotting
+ceac_data <- data.frame(
+  wtp = wtp_thresholds,
+  hu_vs_notreat = ceac_hu_vs_notreat,
+  ctx_vs_notreat = ceac_ctx_vs_notreat,
+  sct_vs_notreat = ceac_sct_vs_notreat
+)
+
+library(ggplot2)
+
+# Melt data for plotting
+ceac_data_long <- tidyr::pivot_longer(ceac_data, cols = -"wtp")
+
+# Plot
+ggplot(ceac_data_long, aes(x = wtp, y = value, color = name)) +
+  geom_line(size = 1) +
+  labs(title = "Cost-Effectiveness Acceptability Curve",
+       x = "Willingness-to-Pay Threshold (WTP) per QALY",
+       y = "Probability Cost-Effective",
+       color = "Comparison") +
+  theme_minimal()
+
+
 
 
 
